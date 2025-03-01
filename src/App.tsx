@@ -22,7 +22,7 @@ function App() {
   return (
     <>
       <div id="light"></div>
-      <div className="overlay"></div>
+      {/* <div className="overlay"></div> */}
       <h1 className="text">R3F Sample</h1>
     </>
   );
